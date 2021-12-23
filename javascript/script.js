@@ -85,4 +85,7 @@ function nextPlayer() {
 	document.querySelector('.dice').style.display = 'none';
 }
 
-console.log('OK');
+const newFeature = function () {
+	console.log('Just a git Test');
+};
+newFeature();
