@@ -84,8 +84,3 @@ function nextPlayer() {
 	document.querySelector('.player--1').classList.toggle('player--active');
 	document.querySelector('.dice').style.display = 'none';
 }
-
-const newFeature = function () {
-	console.log('Just a git Test');
-};
-newFeature();
